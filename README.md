@@ -71,7 +71,7 @@ Blinkit-Sales-Analysis-Capstone-Project/
 ├── Power BI/
 │   ├── Blinkit.pbix
 │   ├── Dashboard.png
-│   └── Recording.mp4
+│   
 │
 ├── Python/
 │   ├── (Your Python notebooks/scripts here)
@@ -161,18 +161,6 @@ Blinkit-Sales-Analysis-Capstone-Project/
 * Dataset may not represent all Blinkit outlets
 * Insights depend on time period of the dataset
 * Observational analysis — not causal
-
----
-
-## 👥 Contributors
-
-* **Mangal Singh** — Data cleaning, EDA, dashboarding, insights
-
-
-### 🔗 Connect With Me
-
-* **GitHub:** [https://github.com/mangal-singh001](https://github.com/mangal-singh001)
-* **LinkedIn:** [https://www.linkedin.com/in/mangal-singh001](https://www.linkedin.com/in/mangal-singh123/)
 
 ---
 
