@@ -10,7 +10,7 @@ This project performs a comprehensive sales analysis of Blinkit (a quick-commerc
 
 Here is a quick look at the interactive Power BI dashboard created for this project:
 
-![Blinkit Dashboard](PowerBI/Dashboard.png)
+![Blinkit Dashboard](POWERBI/Dashboard.png)
 
 ---
 
